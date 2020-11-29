@@ -2,6 +2,8 @@
 
 Containerized MongoDB instance and web sandbox.
 
+![MongoBox](./thumbnail.png)
+
 ## Quick Start
 
 To start, Docker is required to run the environment, you will also need Binci which can be installed via `npm i binci -g`.
