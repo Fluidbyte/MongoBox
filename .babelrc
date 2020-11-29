@@ -1,0 +1,15 @@
+{
+  "presets": [
+    [
+      "@babel/preset-env",
+      {
+        "useBuiltIns": "usage",
+        "exclude": ["@babel/plugin-transform-regenerator"],
+        "targets": {
+          "esmodules": true
+        }
+      }
+    ]
+  ],
+  "plugins": [["@babel/plugin-proposal-decorators", { "legacy": true }]]
+}

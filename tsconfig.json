@@ -1,0 +1,8 @@
+{
+  "compilerOptions": {
+    "outDir": "dist"
+  },
+  "allowSyntheticDefaultImports": true,
+  "experimentalDecorators": true,
+  "useDefineForClassFields": true
+}
